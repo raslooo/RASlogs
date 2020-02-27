@@ -59,13 +59,13 @@ main:
     writing andediting industry. Skilled in science communication, astronomy,
     stargazing. 4
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Raslooo Blogs 5
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Raslooo Blogs 6
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Raslooo Blogs 7
     image: /img/products-grid1.jpg
 ---
 
